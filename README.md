@@ -1,3 +1,3 @@
 # EvozonInternship
 
-Evozon internship day 8 
+Evozon internship ziua 8
